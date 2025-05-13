@@ -28,7 +28,11 @@ Some key Python libraries used:
 ---
 
 ## 💻 Usage
+Install requirements.txt using the following script:
 
+```bash
+pip install -r requirements.txt
+```
 Just run the script and follow the menu:
 
 ```bash
